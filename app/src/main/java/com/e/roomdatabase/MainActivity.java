@@ -22,4 +22,9 @@ public class MainActivity extends AppCompatActivity {
         //    sonali   ----------
         //    yyyyyy   ---------------------
     }
+
+    private void addToDb(){
+        //    sonali   ----------
+        //    yyyyyy   ---------------------
+    }
 }

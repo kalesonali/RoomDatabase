@@ -15,5 +15,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void createdb(){
 
+        //   geet
+    }
+
+    private void operateDb(){
+        //    sonali   ----------
+        //    yyyyyy   ---------------------
     }
 }

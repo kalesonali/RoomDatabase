@@ -25,6 +25,5 @@ public class MainActivity extends AppCompatActivity {
 
     private void addToDb(){
         //    sonali   ----------
-        //    yyyyyy   ---------------------
     }
 }

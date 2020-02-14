@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
         //    sonali   ----------
 
         String name ="Sonali kale";
-        
+
+        boolean state = false;
     }
 
 }

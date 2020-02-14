@@ -26,4 +26,12 @@ public class MainActivity extends AppCompatActivity {
     private void addToDb(){
         //    sonali   ----------
     }
+
+    private void addNewData(){
+        //    sonali   ----------
+
+        String name ="Sonali kale";
+        
+    }
+
 }
